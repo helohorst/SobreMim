@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @helohorst
-
+- 👋 Olá, sou a Heloisa! 
+- 
 Tenho 21 e apaixonada pelo mundo da tecnologia, acho incrível como podemos impactar pessoas através dela!  💡
 
 Atualmente sou QA com foco em testes manuais, porém, meu grande objetivo é trabalhar 100% com testes automatizados! 
